@@ -1,0 +1,8 @@
+.list-item {
+    list-style: none;
+}
+
+.content-wrap {
+    flex: 1;
+}
+
